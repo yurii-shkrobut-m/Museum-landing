@@ -4,7 +4,7 @@ The project is adapted to mobile, tablet and desktop.
 Uses grid, flex, @media, :hover, :focus, mixins, placeholders, variables and more.
 
 ## Preview
-- [DEMO LINK](https://yurii-shkrobut-m.github.io/Museum_2/)
+- [DEMO LINK](https://yurii-shkrobut-m.github.io/Museum-landing/)
 
 ## Mockup
 - [DESIGN](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
